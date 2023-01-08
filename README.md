@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nimeshtembhekar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning - Core Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Gmail, Whatsapp
-
-<!---
-nimeshtembhekar/nimeshtembhekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nimesh Tembhekar.
+- 👀 I’m interested in Learning and Devolpoing my Skills in IT Industry.
+- 🌱 I’m currently learning - Full Stack Web Development in Masai School
+- 💞️ I’m looking to collaborate on different projects related to MERN Development.
+- 📫 How to reach me - 
+- Gmail : nimesh.tembhekar55@gmail.com
+- Twitter : https://twitter.com/TembhekarNimesh
